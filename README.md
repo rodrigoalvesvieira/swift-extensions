@@ -13,7 +13,7 @@
 
 # Swift Extensions
 
-A collection of neat Swift extensions
+A collection of neat Swift extensions as functions and _rocps_.
 
 ## Usage
 
