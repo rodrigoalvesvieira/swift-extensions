@@ -13,7 +13,7 @@
 
 # Swift Extensions
 
-A collection of neat Swift extensions as functions and _rocps_.
+A collection of neat Swift extensions as functions and _[ROCPs]_.
 
 ## Usage
 
@@ -30,3 +30,5 @@ This project uses [Jazzy] for its proper documentation. To generate and browse t
 ## License
 
 MIT License.
+
+[ROCPs]: https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Properties.html#//apple_ref/doc/uid/TP40014097-CH14-ID259
