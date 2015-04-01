@@ -4,6 +4,8 @@
 
 // Thanks to Leonardo Dabus for many of the functions here.
 
+import UIKit
+
 extension NSDate {
 
 
