@@ -58,6 +58,12 @@ extension NSDate {
         return components.day
     }
 
+    func weekday() -> Int {
+        let calendar = NSCalendar.currentCalendar()
+        let components = calendar.components(.CalendarUnitWeekday, fromDate: self)
+        return components.weekday
+    }
+
     func month() -> Int {
         let calendar = NSCalendar.currentCalendar()
         let components = calendar.components(.CalendarUnitMonth, fromDate: self)
